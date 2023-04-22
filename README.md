@@ -29,3 +29,5 @@ I detect when any book opens (by player or by DF) and then get the player's main
 This is because the reference book sets the content of itself to what you chose but then resets.
 
 The data is put into `book.txt`.
+
+Grog is a funny guy
